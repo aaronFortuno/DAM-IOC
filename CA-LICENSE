@@ -4,16 +4,50 @@ Copyright (C) 1989, 1991 Free Software Foundation, Inc.
 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA
 
 Es permet que tothom faci còpies literals d'aquest document de
- llicència i les distribueixi, però no és permès modificar-lo.
+llicència i les distribueixi, però no és permès modificar-lo.
+ 
 Preàmbul
-Les llicències de la major part de programari estan pensades per prendre-us la llibertat de compartir-lo i modificar-lo. Contràriament, la Llicència pública general de GNU pretén garantir-vos la llibertat de compartir i modificar el programari lliure -- assegurar-se que el programari sigui lliure per a tots els seus usuaris i usuàries. Aquesta Llicència pública general de GNU afecta la majoria del programari de la Free Software Foundation (fundació pel programari lliure) i a qualsevol altre programa els autors o autores del qual decideixin usar-la (algun altre programari de la Free Software Foundation, en canvi, està protegit per la Llicència pública general per a biblioteques de GNU [NdeT: aquesta llicència, la LGPL, és la que actualment la FSF anomena Llicència pública menys general]). També podeu aplicar-la als vostres programes.
-Quan parlem de programari lliure (free software) ens referim a la llibertat, no al preu [NdeT: en català no hi ha l'ambigüitat que hi ha en anglès]. Les nostres llicències públiques generals estan pensades per assegurar que tingueu la llibertat de distribuir còpies del programari lliure (i cobrar per aquest servei si així ho voleu), que rebeu el codi font o que el pugueu rebre si el voleu, que pugueu modificar el programari o fer-ne servir parts en programes lliures nous; i que sapigueu que podeu fer aquestes coses.
+Les llicències de la major part de programari estan pensades per
+prendre-us la llibertat de compartir-lo i modificar-lo.
+Contràriament, la Llicència pública general de GNU pretén
+garantir-vos la llibertat de compartir i modificar el programari
+lliure -- assegurar-se que el programari sigui lliure per a tots
+els seus usuaris i usuàries. Aquesta Llicència pública general
+de GNU afecta la majoria del programari de la Free Software
+Foundation (fundació pel programari lliure) i a qualsevol altre
+programa els autors o autores del qual decideixin usar-la (algun
+altre programari de la Free Software Foundation, en canvi, està
+protegit per la Llicència pública general per a biblioteques de
+GNU [NdeT: aquesta llicència, la LGPL, és la que actualment la
+FSF anomena Llicència pública menys general]). També podeu
+aplicar-la als vostres programes.
 
-Per protegir els vostres drets, hem d'imposar restriccions que prohibeixin a tothom denegar-vos aquests drets o demanar-vos que hi renuncieu. Aquestes restriccions suposen algunes responsabilitats per a vós si distribuïu còpies del programari o si el modifiqueu.
+Quan parlem de programari lliure (free software) ens referim a la
+llibertat, no al preu [NdeT: en català no hi ha l'ambigüitat que
+hi ha en anglès]. Les nostres llicències públiques generals estan
+pensades per assegurar que tingueu la llibertat de distribuir
+còpies del programari lliure (i cobrar per aquest servei si així
+ho voleu), que rebeu el codi font o que el pugueu rebre si el
+voleu, que pugueu modificar el programari o fer-ne servir parts
+en programes lliures nous; i que sapigueu que podeu fer aquestes
+coses.
 
-Per exemple, si distribuïu còpies d'un aquests programes, tant si és de franc com per un preu, heu de donar als destinataris els mateixos drets que teniu vós. Us heu d'assegurar que també ells rebin o puguin obtenir el codi font. I els heu de fer saber aquests termes per tal que coneguin els seus drets.
+Per protegir els vostres drets, hem d'imposar restriccions que
+prohibeixin a tothom denegar-vos aquests drets o demanar-vos que
+hi renuncieu. Aquestes restriccions suposen algunes
+responsabilitats per a vós si distribuïu còpies del programari o
+si el modifiqueu.
 
-Protegim els vostres drets en dos passos: (1) Ens reservem el copyright del programari, i (2) us oferim aquesta llicència que us dóna permís legal per copiar, distribuir i/o modificar el programari.
+Per exemple, si distribuïu còpies d'un aquests programes, tant si
+és de franc com per un preu, heu de donar als destinataris els
+mateixos drets que teniu vós. Us heu d'assegurar que també ells
+rebin o puguin obtenir el codi font. I els heu de fer saber
+aquests termes per tal que coneguin els seus drets.
+
+Protegim els vostres drets en dos passos: (1) Ens reservem el
+copyright del programari, i (2) us oferim aquesta llicència que
+us dóna permís legal per copiar, distribuir i/o modificar el
+programari.
 
 A més a més, per protegir-nos i protegir l'autor o autora, volem estar segurs que tothom entén que no hi ha cap garantia per a aquest programari lliure. Si algú modifica el programari i el passa, volem que els destinataris sàpiguen que el que tenen no és l'original, per tal que qualsevol problema que haguessin pogut introduir terceres persones no repercuteixi en la reputació de l'autor o autora original.
 
